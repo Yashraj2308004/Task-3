@@ -56,6 +56,7 @@ I scanned **two hosts** on my network:
   - Multiple critical vulnerabilities discovered.
   - Services like Apache, Samba, vsFTPd, and MySQL were outdated and exploitable.
   - I have also provided the reports generated for both scans.
+  - I was unable to upload those in pdf format because of file size issue that's why I have uploaded them in HTML format.
 
 ---
 
